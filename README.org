@@ -1,0 +1,19 @@
+#+SEQ_TODO: NEXT(n) FOREVER(f) PENDING(p) TODO(t) DOING(x) SOMEDAY(s) | CANCLeED(c) DONE(d)
+#+STARTUP: content hidestars
+#+TAGS: URGENT(u) SLACKABIT(s) CANWAIT(c) MUSTDO(m) GARBAGE(g)
+#+STARTUP: showall 
+
+* Weather Station
+** Business Value                            :MUSTDO:
+*** Short Term
+    - narrow gird data
+    - direct data sells (via api)
+    - realtime alerting
+    - onfly/on route weather information
+*** 🏃 long run ( years > 3yrs )
+    - data pattern analysis
+** Goal Road map
+   - open source hardware/software
+   - approaching IT related academics (workshops)
+   - Tourism Sectors {hotels,resorts}
+   - hardware enthusiasts
